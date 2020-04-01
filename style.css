@@ -1,0 +1,11 @@
+
+.btn-primary, .btn-primary:visited {
+    background-color: #232323 !important;
+    border: 1px solid #232323 !important;
+}
+
+.btn-primary:hover, .btn-primary:active {
+    color: #232323 !important;
+    background-color: #ffffff !important;
+    border: 1px solid #232323 !important;
+}
