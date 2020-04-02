@@ -2,6 +2,16 @@
 .btn-primary, .btn-primary:visited {
     background-color: #232323 !important;
     border: 1px solid #232323 !important;
+    padding: 8px 15px 8px 15px !important;
+}
+
+.btn-sm {
+    font-size: 0.8em !important;
+}
+
+.btn-bg {
+    font-size: 1.5em !important;
+    padding: 18px 60px 18px 60px !important;
 }
 
 .btn-primary:hover, .btn-primary:active {
